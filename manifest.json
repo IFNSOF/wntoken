@@ -1,7 +1,7 @@
 {
     "name": "Кликер",
     "short_name": "Кликер",
-    "start_url": "index.html",
+    "start_url": "https://ifnsof.github.io/wntoken/index.html",
     "display": "standalone",
     "background_color": "#f8f8f8",
     "theme_color": "#007bff",
